@@ -1,0 +1,5 @@
+name,algo,mode,use_gpu,n_workers,scale,total_time_sec
+A2C_CPU,A2C,sync,False,4,1000,3.7021799087524414
+A2C_GPU,A2C,sync,True,4,1000,4.703712701797485
+A3C_CPU,A3C,async,False,4,4000,4.8507239818573
+A3C_GPU,A3C,async,True,4,4000,20.969029426574707
